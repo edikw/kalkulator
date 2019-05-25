@@ -170,7 +170,6 @@ class kalkulator extends Component {
 							    	</div>
 								</div>
 							</div>
-
 							<div className="input-group mb-3">
 								<input className="form-control" placeholder="0" name="number_2" onChange={this.handelInput.bind(this)} />
 								<div className="input-group-prepend">
