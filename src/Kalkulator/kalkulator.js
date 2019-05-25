@@ -206,4 +206,4 @@ class kalkulator extends Component {
 	}
 }
 
-export default kalkulator
+export default kalkulator;
